@@ -1,3 +1,6 @@
-#EXTM3U 
+#EXTM3U
 #EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="",FOX SPORTS
-http://188.142.76.198:4022/udp/233.81.233.64:10100
+https://list.iptvcat.com/my_list/s/cffc482d8f6f4cce2fa62b0db70d6815.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="",FOX SPORTS 2
+https://list.iptvcat.com/my_list/s/43bb2ce9bc1c87d20894a36e8eb4c095.m3u8
